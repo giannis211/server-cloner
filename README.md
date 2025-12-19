@@ -22,17 +22,12 @@
 ### **Permission Hierarchy Logic**
 > The cloner follows a strict "Top-Down" creation logic to ensure roles and channel overrides stay synchronized.
 
-
----
-
-## 🛠️ Installation & Usage
-
 ### **Requirements**
 * **Permissions:** Your account must have **Administrator** or **Manage Channels** permissions in the Destination server.
-* **Tool:** Download the latest [Release](https://github.com/yourusername/repo/releases).
+
 
 ### **Steps to Clone**
-1.  **Run** the `ServerClonerPro.exe` (Use your access password).
+1.  **Run** the `ServerClonerPro.exe`.
 2.  **Input** your Discord Token and the Source/Destination IDs.
 3.  **Wipe (Optional):** Click "Wipe Destination" to start with a blank canvas.
 4.  **Execute:** Click "Start Full Clone" and monitor the live terminal.
